@@ -222,14 +222,14 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   color:white;
-  font-size: 64px;
+  font-size: 46px;
   font-family: "Satisfy", serif;
   margin: 0 0 10px 0;
 }
 
 #hero h2 {
   margin-bottom: 50px;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
