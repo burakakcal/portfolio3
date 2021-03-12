@@ -458,8 +458,8 @@ section {
 }
 
 .about .content ul {
-  list-style: none;
-  padding: 0;
+    list-style: none;
+    padding: 20px;
 }
 
 .about .content ul li {
@@ -531,10 +531,11 @@ section {
   background-size: contain;
   min-height: 300px;
   max-height: 310px;
+  margin-bottom: 30px;
 }
 
 .about .skills-content {
-  margin-top: 30px;
+  margin: 20px;
 }
 
 .about .skills-content .progress {
