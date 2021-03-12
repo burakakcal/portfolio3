@@ -295,21 +295,13 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: auto;
+  height: 100vh;
   background: url("../img/bg1.png") top right;
   background-size: cover;
   position: relative;
 }
 
-#hero:before {
-  content: "";
 
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-}
 
 #hero .hero-container {
   position: absolute;
