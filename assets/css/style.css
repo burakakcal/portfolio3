@@ -657,6 +657,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
+  background: #202a4b;
   background-size: cover;
   color: #fff;
   font-family: "Raleway", sans-serif;
@@ -670,7 +671,6 @@ section {
 }
 
 #footer::before {
-  background: ##202a4b;
   bottom: 0;
   content: "";
   left: 0;
