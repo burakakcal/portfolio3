@@ -479,7 +479,7 @@ section {
 
 .portfolio #portfolio-flters li {
   cursor: pointer;
-  display: none;
+
   margin: 0 10px 10px 10px;
   font-size: 15px;
   font-weight: 600;
